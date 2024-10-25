@@ -2,6 +2,7 @@ from reverse import my_reverse
 
 
 def main() -> None:
+    # Проверяем на итоговый результат.
     assert my_reverse("") == ""
     assert my_reverse("a") == "a"
     assert my_reverse("ab") == "ba"
