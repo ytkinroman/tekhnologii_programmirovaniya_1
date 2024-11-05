@@ -1,24 +1,29 @@
 ## Введение
 Сделал простую функцию, которая будет рекурсивно отзеркаливать строку ("abc" ---> "bca"). Поместил функцию в отдельный файл: [reverse.py](https://github.com/ytkinroman/tekhnologii_programmirovaniya_1/blob/main/reverse.py).
+
 ![Image](github_img/img_function.jpg)
 
  
  
 ## 1. Применение assert
 Поместил тестирование отдельный файл: [test_assert.py](https://github.com/ytkinroman/tekhnologii_programmirovaniya_1/blob/main/test_assert.py).
+
 ![Image](github_img/img_assert.jpg)
 
 
 
 ## 2. Применение Unittest
 Поместил тестирование отдельный файл: [test_unittest.py](https://github.com/ytkinroman/tekhnologii_programmirovaniya_1/blob/main/test_unittest.py).
+
 ![Image](github_img/img_unitllest.jpg)
 
 
 
 ## 3. Применение Pytest
 Поместил тестирование отдельный файл: [test_unittest.py](https://github.com/ytkinroman/tekhnologii_programmirovaniya_1/blob/main/test_pytest.py).
+
 ![Image](github_img/img_pytest.jpg)
+
 
 ## 4. Другие библиотеки для тестов
 Библиотек для тестирования очень много, некоторые из них сделаны на основе вышеперечисленных, как например Nose2 - расширение для unittest. Вот некоторые из библиотек для тестирования: *Robot Framework, Nose2, TestProject, Behave, Testify, Lettuce*.
